@@ -2,7 +2,7 @@
 This project focuses on developing a spam detection model for YouTube comments. The model is trained on a labeled dataset of YouTube comments and can classify comments as either spam or legitimate.
 
 ## Project Pipeline 
-<img width="730" alt="Screenshot 2024-07-06 at 2 50 49 PM" src="https://github.com/sallykim09/spamfilteringmodel/assets/98010417/d0d3044e-81ee-4696-9f34-c57cb68e1c49">
+![spam detection drawio](https://github.com/user-attachments/assets/12ab8899-82fb-425d-9c14-54c6598be24e)
 
 
 ## Dataset
